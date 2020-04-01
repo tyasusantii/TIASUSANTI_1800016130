@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tekweb1800016130"
+    }
+  },
+  "defaultProject": "tekweb1800016130",
+  "cli": {
+    "analytics": "744dba76-6675-4481-95b6-71c3251415b4"
+  }
 }
